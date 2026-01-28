@@ -1,8 +1,11 @@
 >[!info]
->**Author**: 차백동
+>**Author**: Baekdong Cha (차백동)
+>**Email**: orientpine@gmail.com | orientpine@kimm.re.kr
+>**Affiliation**: Korea Institute of Machinery and Materials (한국기계연구원)
 >**Created**: 2026-01-27
 >**Location**: 퇴직준비세미나/세미나자료/회차별강의자료
 >**Tag**: #세미나 #퇴직준비 #3회차 #AIAgent #에이전트아키텍처 #ClaudeCode
+>**License**: CC BY 4.0
 
 ---
 
