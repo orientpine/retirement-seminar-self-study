@@ -253,7 +253,7 @@ Claude에게 원하는 문서의 예시(Template)를 제공하면 품질이 비�
 >
 > **제출 방법**: 이메일 (orientpine@kimm.re.kr)
 
-자세한 내용: [[세미나자료/회차별과제/Phase4_Obsidian_PARA_구조_구축]]
+자세한 내용: [[Phase4_Obsidian_PARA_구조_구축]]
 
 ---
 
@@ -261,7 +261,7 @@ Claude에게 원하는 문서의 예시(Template)를 제공하면 품질이 비�
 
 - [[퇴직준비_세미나_소개]] - 세미나 전체 개요
 - [[5회차_Obsidian_제2의_뇌_구축]] - 이전 강의
-- [[세미나자료/회차별과제/Phase4_Obsidian_PARA_구조_구축]] - Phase 4 과제 상세
+- [[Phase4_Obsidian_PARA_구조_구축]] - Phase 4 과제 상세
 
 ---
 
